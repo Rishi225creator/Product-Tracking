@@ -1,0 +1,115 @@
+
+ #sis_header{
+  background-color: pink;
+  height: 150px;
+ }
+ 
+ #sis_header_top{
+  background-color: red;
+  height: 100px;
+ }
+ 
+  #sis_header_bottom{
+  background-color: #bebeff;
+  height: 50px;
+ }
+ 
+ 
+ #sis_footer{
+  background-color: black;
+  color:white;
+  height: 50px;
+  font-size: 20px;
+  text-transform: capitalize;
+ }
+ #sis_main{
+  background-color: #f4e1d8;
+  height: 2000px;
+ }
+ 
+ 
+ #sis_header_top_logo{
+  background-color: #a1ea96;
+   height: 100px;
+   width: 20%;
+   float: left;
+ }
+ #sis_header_top_Project_titile{
+  background-color: #a1ea96;
+   height: 100px;
+   width: 60%;
+   float: left;
+ }
+ #sis_header_top_login{
+  background-color: #a1ea96;
+   height: 100px;
+   width: 20%;
+   float: left;
+ }
+ 
+ a{
+  font-size: 35px;
+  text-transform: capitalize;
+  margin-left: 5px;
+ }
+ 
+ a:HOVER {
+	font-size: 37px;
+	background-color: pink;
+}
+
+a.error_link_type:hover{
+	font-size: 17px;
+}
+
+
+#sis_address1{
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+
+
+#course_table_1{
+	font-size: 20px;
+	font-weight: bold;
+	
+}
+
+ 
+ .error_link_type{
+    font-size: 18px;
+  text-transform: capitalize;
+  margin-left: 5px;
+  color:red;
+ }
+
+ 
+ 
+th{
+background-color: #539f1e;
+}
+
+ tr:NTH-CHILD(even){
+  background-color: #ffdbac;
+ }
+ tr:NTH-CHILD(odd){
+  background-color: #b9fafd;
+ }
+ tr:HOVER {
+	 background-color: yellow;
+	 color:black;
+}
+ 
+ td,th{
+	font-weight: bold;
+ }
+ td{
+   font-size: 30px;
+ }
+ 
+ th{
+ font-size: 35px;
+  text-transform: capitalize; 
+ }
